@@ -1,1 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Hungry Food Point</title>
+<link rel="stylesheet" href="style.css">
+</head>
 
+<body>
+
+<header>
+<h1>Hungry Food Point</h1>
+<p>Delicious Food For Everyone</p>
+</header>
+
+<nav>
+<a href="#">Home</a>
+<a href="#">Menu</a>
+<a href="#">About</a>
+<a href="#">Contact</a>
+</nav>
+
+<section class="food-container">
+
+<div class="food-card">
+<img src="burger.jpg" alt="Burger">
+<h2>Burger</h2>
+<p>Price: ₹120</p>
+</div>
+
+<div class="food-card">
+<img src="pizza.jpg" alt="Pizza">
+<h2>Pizza</h2>
+<p>Price: ₹250</p>
+</div>
+
+<div class="food-card">
+<img src="sandwich.jpg" alt="Sandwich">
+<h2>Sandwich</h2>
+<p>Price: ₹90</p>
+</div>
+
+<div class="food-card">
+<img src="fries.jpg" alt="Fries">
+<h2>French Fries</h2>
+<p>Price: ₹80</p>
+</div>
+
+</section>
+
+<footer>
+<p>© 2026 Hungry Food Point</p>
+</footer>
+
+</body>
+</html>
